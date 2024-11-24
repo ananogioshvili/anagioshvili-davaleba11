@@ -1,0 +1,77 @@
+@media screen and (max-width: 1250px) {
+  .sec1 h1 {
+    width: 653px;
+  }
+
+  .description {
+    width: 1355px;
+  }
+
+  .info {
+    display: flex;
+    flex-direction: column;
+    margin-left: 64px;
+  }
+
+  .subject {
+    width: 1355px;
+  }
+
+  .name {
+    width: 1355px;
+  }
+
+  .email1 {
+    width: 1355px;
+  }
+
+  .send {
+    width: 1355px;
+  }
+
+  .sec3 {
+    width: 1461px;
+  }
+
+  .sec4 h1 {
+    width: 1355px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .description {
+    width: 1350px;
+  }
+
+  .subject {
+    width: 1350px;
+  }
+
+  .name {
+    width: 1350px;
+  }
+
+  .email1 {
+    width: 1350px;
+  }
+
+  .send {
+    width: 1350px;
+  }
+
+  .sec3 {
+    width: 1463px;
+  }
+
+  .sec5 {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+  }
+
+  .sec5 img {
+    width: 400px;
+    height: 400px;
+    margin-left: 80px;
+  }
+}
